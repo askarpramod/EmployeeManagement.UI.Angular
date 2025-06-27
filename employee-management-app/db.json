@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "firstName": "Ojaswi1",
+      "lastName": "Askar1",
+      "email": "Ojasw@gmail.comi",
+      "dob": "2025-06-10T18:30:00.000Z",
+      "gender": "female",
+      "education": "HSC",
+      "company": "MMMMA",
+      "experience": 2,
+      "package": 12,
+      "id": "1e0f"
+    },
+    {
+      "id": "bef2",
+      "firstName": "Pramod",
+      "lastName": "Aaskar",
+      "email": "pramod@test.com",
+      "dob": "2025-05-31T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "AAAA",
+      "experience": 13,
+      "package": 12
+    }
+  ]
+}
